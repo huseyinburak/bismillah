@@ -1,4 +1,1 @@
-# bismillah
-first repository
-
-Selamünaleyküm
+ilk_dosya
